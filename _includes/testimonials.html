@@ -1,0 +1,45 @@
+<section id="testimonials" class="py-16 bg-gray-50">
+    <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">
+            What Our Clients Say
+        </h2>
+
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-white p-6 rounded-lg shadow">
+                <div class="flex mb-4">
+                    {% for i in (1..5) %}
+                    <svg class="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
+                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                    </svg>
+                    {% endfor %}
+                </div>
+                <p class="mb-4">"[Specific testimonial addressing pain point and outcome]"</p>
+                <p class="font-semibold">- [Customer Name], [Title/Company]</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow">
+                <div class="flex mb-4">
+                    {% for i in (1..5) %}
+                    <svg class="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
+                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                    </svg>
+                    {% endfor %}
+                </div>
+                <p class="mb-4">"[Testimonial overcoming common objection]"</p>
+                <p class="font-semibold">- [Customer Name], [Title/Company]</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow">
+                <div class="flex mb-4">
+                    {% for i in (1..5) %}
+                    <svg class="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
+                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                    </svg>
+                    {% endfor %}
+                </div>
+                <p class="mb-4">"[Testimonial confirming promised outcomes]"</p>
+                <p class="font-semibold">- [Customer Name], [Title/Company]</p>
+            </div>
+        </div>
+    </div>
+</section>

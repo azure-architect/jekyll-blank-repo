@@ -1,0 +1,39 @@
+# Site Settings
+title: LocallyKnown.pro
+description: Professional conversion-focused landing pages for local businesses
+url: https://locallyknown.pro
+baseurl: ""
+
+# SEO Settings
+tagline: Convert More Visitors Into Customers
+author:
+  name: LocallyKnown.pro
+  email: hello@locallyknown.pro
+
+# Jekyll Configuration
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Collections
+collections:
+  testimonials:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "LocallyKnown.pro"
+
+# Service-specific settings
+service_type: conversion_landing_page
+consultation_price: "$497"
