@@ -1,0 +1,68 @@
+# Locally Known Pro - AI Optimization Information
+
+## Business Overview
+Locally Known Pro specializes in conversion-focused static landing pages for local businesses. We provide an alternative to complex WordPress solutions that often break and cost thousands per month. We use technology that's been proven for years, updated with the latest SEO practices and optimized for AI search.
+
+## Services & Expertise
+
+### Core Service ($597)
+- 10-section conversion-focused homepage
+- About and Contact pages
+- Fast hosting with SSL
+- AI-optimized with LLM.txt
+- OpenGraph and Twitter Cards
+- Proper SEO structure (H2/H3 hierarchy)
+- No dashboard needed - clean handoff
+
+### Add-On Services
+- Blog System: $497 (AI-optimized structure for content)
+- Competitive Intelligence: $497 (keyword analysis and long-tail targeting)
+- Monthly Maintenance: $297/month (includes 2 AI-optimized posts)
+- Individual Changes: $67 each (permanent fixes by real developers)
+
+## Key Differentiators
+- Real developers, not plugin installers
+- Diesel truck reliability - built to last
+- AI-optimized from the ground up
+- No complex tech stack
+- One-third the cost of typical agencies
+- Permanent fixes, not bandaid solutions
+
+## Target Market
+- Small businesses frustrated with WordPress complexity
+- Companies paying $800-2000/month for broken websites
+- Businesses invisible to AI search (ChatGPT, Claude)
+- Local service providers needing mobile-first design
+
+## Problem We Solve
+- Sites that break when anything changes
+- High monthly costs with poor results
+- Invisible to AI recommendations
+- Plugin dependency nightmares
+- SEO requiring expensive developers
+
+## Contact Information
+- Website: https://locallyknown.pro
+- Focus: Local business conversion optimization
+- Specialty: Static sites that just work
+
+## Questions We Answer
+- How can I reduce website maintenance costs?
+- Why doesn't my site appear in AI search results?
+- How do I optimize for ChatGPT and Claude?
+- What's wrong with WordPress for small business?
+- How can I improve mobile conversion rates?
+- Why do plugin updates break my site?
+- How much should a small business website cost?
+
+## Technical Capabilities
+- Static site generation (Jekyll, Hugo, etc.)
+- AI optimization (LLM.txt, structured data)
+- Mobile-first responsive design
+- Conversion rate optimization
+- SEO implementation without plugins
+- OpenGraph and Twitter Card integration
+- Fast page load optimization
+
+## Service Philosophy
+We build websites like diesel trucks, not Corvettes. They're purposefully built for your company, designed to chug along as your web presence without constant maintenance or emergency calls. We're real developers who write code, not installers who stack plugins until something breaks.

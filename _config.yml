@@ -1,5 +1,5 @@
 # Site Settings
-title: LocallyKnown.pro
+title: Locally Known Pro
 description: Professional conversion-focused landing pages for local businesses
 url: https://locallyknown.pro
 baseurl: ""
@@ -7,7 +7,7 @@ baseurl: ""
 # SEO Settings
 tagline: Convert More Visitors Into Customers
 author:
-  name: LocallyKnown.pro
+  name: Locally Known Pro
   email: hello@locallyknown.pro
 
 # Jekyll Configuration
@@ -32,7 +32,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "LocallyKnown.pro"
+      author: "Scott Hamilton"
 
 # Service-specific settings
 service_type: conversion_landing_page

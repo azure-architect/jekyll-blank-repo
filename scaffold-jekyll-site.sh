@@ -10,8 +10,7 @@ echo "=================================================="
 
 # Set up Ruby environment
 echo "📦 Setting up Ruby environment..."
-source /opt/homebrew/share/chruby/chruby.sh
-chruby ruby-3.4.1
+export PATH="$HOME/.rubies/ruby-3.4.1/bin:$PATH"
 
 # Verify Ruby version
 RUBY_VERSION=$(ruby -v)
@@ -93,11 +92,7 @@ echo "📁 Creating directory structure..."
 mkdir -p _layouts _includes _sass assets/css assets/js assets/images
 
 # Download TailwindCSS and Alpine.js locally
-echo "📦 Downloading frontend dependencies..."
-curl -s -o assets/js/tailwind.min.js https://cdn.tailwindcss.com/3.4.0/tailwind.min.js
-curl -s -o assets/js/alpine.min.js https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
-
-echo "✅ TailwindCSS and Alpine.js downloaded locally"
+echo "✅ Using TailwindCSS and Alpine.js from repository"
 
 # Create default layout
 echo "🎨 Creating default layout..."
