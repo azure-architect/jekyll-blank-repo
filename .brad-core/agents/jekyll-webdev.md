@@ -108,6 +108,8 @@ dependencies:
     - post-build-hook.rb
     - deploy-hook.sh
     - image-optimization.sh
+  docs:
+    - jekyll-standard-requirements.md
 
 jekyll_capabilities:
   configuration:
