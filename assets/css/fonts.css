@@ -91,3 +91,41 @@ nav, .nav, .navbar {
   font-family: var(--font-primary);
   font-weight: 500;
 }
+
+/* Tailwind overrides to ensure Prompt is used */
+.font-sans {
+  font-family: var(--font-primary) !important;
+}
+
+.font-prompt {
+  font-family: var(--font-primary) !important;
+}
+
+/* Hero section specific styling */
+#hero h1 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+#hero p {
+  font-family: var(--font-body);
+  font-weight: 400;
+}
+
+/* CTA buttons */
+.bg-gradient-to-r {
+  font-family: var(--font-primary);
+  font-weight: 600;
+}
+
+/* Ensure all headings use Prompt */
+.text-4xl, .text-5xl, .text-6xl {
+  font-family: var(--font-heading) !important;
+  font-weight: 700;
+}
+
+.text-xl, .text-2xl, .text-3xl {
+  font-family: var(--font-heading) !important;
+  font-weight: 600;
+}
