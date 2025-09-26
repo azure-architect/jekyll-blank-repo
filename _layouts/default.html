@@ -59,7 +59,11 @@
     <!-- LLM Optimization -->
     <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM Optimization Info">
 </head>
-<body class="bg-white text-gray-900">
-    {{ content }}
+<body class="bg-white text-gray-900 min-h-screen flex flex-col">
+    {% include header.html %}
+    <main class="flex-grow">
+        {{ content }}
+    </main>
+    {% include footer.html %}
 </body>
 </html>
